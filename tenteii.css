@@ -84,6 +84,11 @@ footer {
 a {
     color: #ff3d00; /* Laranja vibrante */
 }
+  
+footer a {
+    color: black;
+    text-decoration: none;
+}
 
 a:hover {
     text-decoration: underline;
